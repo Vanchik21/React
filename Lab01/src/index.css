@@ -95,3 +95,15 @@ body {
 .location-history {
 	margin-top: 40px;
 }
+
+.form {
+	margin-top: 80px;
+}
+
+.show {
+	display: block;
+}
+
+.hidden {
+	display: none;
+}

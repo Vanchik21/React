@@ -1,3 +1,4 @@
+import Form from './components/Form'
 import LocationHistory from './components/LocationHistory'
 import Map from './components/Map'
 
@@ -6,6 +7,7 @@ function App() {
 		<>
 			<Map />
 			<LocationHistory />
+			<Form />
 		</>
 	)
 }
