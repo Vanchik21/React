@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": "2",
+      "title": "Learn Redux"
+    },
+    {
+      "id": "3",
+      "title": "Learn RTK Query"
+    },
+    {
+      "id": "4",
+      "title": "Learn Zustand 2"
+    }
+  ]
+}
