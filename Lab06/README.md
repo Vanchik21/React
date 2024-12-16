@@ -1,4 +1,4 @@
-Функціональні компоненти: У папці components є функціональні компоненти, такі як [ChosenRegion] (https://github.com/Vanchik21/React/blob/master/Lab01/src/components/ChosenRegion.jsx) і [Map](https://github.com/Vanchik21/React/blob/master/Lab01/src/components/Map.jsx). Вони написані у простому та читабельному форматі.
+Функціональні компоненти: У папці components є функціональні компоненти, такі як [ChosenRegion](https://github.com/Vanchik21/React/blob/master/Lab01/src/components/ChosenRegion.jsx) і [Map](https://github.com/Vanchik21/React/blob/master/Lab01/src/components/Map.jsx). Вони написані у простому та читабельному форматі.
 
 Робота зі станом через хуки: Наприклад, у компоненті [Map](https://github.com/Vanchik21/React/blob/master/Lab01/src/components/Map.jsx) використовуються [useState](https://github.com/Vanchik21/React/blob/bb3c6d4b8d93cbc5acb771694c3674c8ad6e6f32/Lab01/src/components/Map.jsx#L3C1-L3C33) для зберігання координат, а useEffect для ініціалізації або оновлення стану при зміні вхідних даних.
 
