@@ -1,15 +1,12 @@
-import Form from './components/Form'
-import LocationHistory from './components/LocationHistory'
-import Map from './components/Map'
+import UkrposhtaCalculator from './components/UkrposhtaCalculator';
+import './App.css';
 
 function App() {
-	return (
-		<>
-			<Map />
-			<LocationHistory />
-			<Form />
-		</>
-	)
+  return (
+    <div className="App">
+      <UkrposhtaCalculator />
+    </div>
+  );
 }
 
-export default App
+export default App;
